@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "title": "Basic Information",
+    "isActive": true,
+    "isVisible": true,
+    "hasWarning": false,
+    "hasError": false
+  },
+  {
+    "id": 1,
+    "title": "Education",
+    "isActive": true,
+    "isVisible": true,
+    "hasWarning": false,
+    "hasError": false
+  },
+  {
+    "id": 2,
+    "title": "Work Experience",
+    "isActive": true,
+    "isVisible": true,
+    "hasWarning": false,
+    "hasError": false
+  },
+  {
+    "id": 3,
+    "title": "Skills & Languages",
+    "isActive": true,
+    "isVisible": true,
+    "hasWarning": false,
+    "hasError": false
+  },
+  {
+    "id": 4,
+    "title": "Personal Projects & Interests",
+    "isActive": true,
+    "isVisible": true,
+    "hasWarning": false,
+    "hasError": false
+  },
+  {
+    "id": 5,
+    "title": "CV Footer",
+    "isActive": true,
+    "isVisible": true,
+    "hasWarning": false,
+    "hasError": false
+  }
+]

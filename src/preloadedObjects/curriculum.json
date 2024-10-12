@@ -1,0 +1,105 @@
+{
+  "basicInformation": {
+    "firstname": "John",
+    "lastname": "Doe",
+    "email": "youremail@gmail.com",
+    "city": "Milan",
+    "country": "Italy",
+    "phonenumber": "(+39) 123 456 7890",
+    "linkedin": "john-doe",
+    "hasLinkedin": true,
+    "website": "",
+    "hasWebsite": false
+  },
+  "education": [
+    {
+      "id": 0,
+      "qualification": "Master's Degree in Computer Science",
+      "organization": "University of Milan",
+      "startmonth": "Sept",
+      "startyear": "2023",
+      "endmonth": "Sept",
+      "endyear": "2025",
+      "present": true,
+      "description" : "Description is not necessary for qualifications"
+    },
+    {
+      "id": 1,
+      "qualification": "Bachelor's Degree in Computer Science",
+      "organization": "University of Milan",
+      "startmonth": "Sept", 
+      "startyear": "2020",
+      "endmonth": "July",
+      "endyear": "2023",
+      "present": false,
+      "description" : ""
+    }
+  ],
+  "workExperience": [
+    {
+      "id": 0,
+      "position": "Internship in Private Investor Products Internal, Public and External distribution Italy",
+      "organization": "UniCredit Client Risk Management division (markets)",
+      "startmonth": "Aug",
+      "startyear": "2026",
+      "endmonth": "July",
+      "endyear": "2028",
+      "present": false,
+      "description" : "Full description for my work experience with focus on the goals I reached"
+    },
+    {
+      "id": 1,
+      "position": "Marketing Senior Manager",
+      "organization": "Ferrari Srl",
+      "startmonth": "Aug",
+      "startyear": "2026",
+      "endmonth": "July",
+      "endyear": "2028",
+      "present": false,
+      "description" : "Full description for my work experience with focus on the goals I reached Full description for my work experience with focus on the goals I reached Full description for my work experience with focus on the goals I reached Full description for my work experience with focus on the goals I reached Full description for my work experience with focus on the goals I reached Full description for my work experience with focus on the goals I reached Full description for my work experience with focus on the goals I reached"
+    }
+  ],
+  "skills": [
+    {
+      "id": 0,
+      "description": "Skill 1 description..."
+    },
+    {
+      "id": 1,
+      "description": "Skill 2 description..."
+    }
+  ],
+  "languages": [
+    {
+      "id": 0,
+      "language": "Italian",
+      "level": "Native",
+      "certification": false
+    },    
+    {
+      "id": 1,
+      "language": "English",
+      "level": "C1 / certfication (e.g. IELTS) / other description",
+      "certification": true
+    }
+  ],
+  "personalProjectsAndInterests": [
+    {
+      "id": 0,
+      "description": "Interest 1"
+    },
+    {
+      "id": 1,
+      "description": "Interest 2"
+    },
+    {
+      "id": 2,
+      "description": "Interest 3"
+    }
+  ],
+  "footerInfo": {
+    "disclaimer": "I hereby consent to the processing of the data I provided in this CV. I declare my agreement with the data protection regulations in the data privacy statement.",
+    "disclaimerVisible": true,
+    "pageCounterVisible": true
+  }
+}
