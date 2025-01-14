@@ -1,8 +1,8 @@
 # SimpleCV
-#### Designed and developed by Lorenzo Gatta
+Try SimpleCV here: https://simplecv-techlory.vercel.app/
 
-## What's SimpleCV
+## About
 SimpleCV is a web application that allows users to easily create minimalist and professional resumes for free.
 
-## Status
+### Status
 The app is currently in development and may contain bugs.
